@@ -1,12 +1,12 @@
-Görev Dağılımı
+## Task Assignment
 
-| **Görev**                             | **Atanan Kişi**          |
-|--------------------------------------|---------------------------|
-| Organizasyon ve Repo Kurulumu        | Hasan Berk Demir         |
-| Proje Amacı Dosyasını Yazmak         | Beyza Başeğmez           |
-| Sensör Seçimi Yapmak                 | Berkay Acar              |
-| Bileklik Donanım Tasarımı            | Berkay Acar              |
-| MCU Üzerinden Sensör Verisi Toplamak | Hasan Berk Demir         |
-| Mobil Uygulama Geliştirmek           | Beyza Başeğmez           |
-| Test Süreçlerini Yönetmek            | Berkay Acar              |
-| Proje Raporu ve Dokümantasyon Hazırlamak | Hasan Berk Demir    |
+| **Task**                                           | **Assigned Person**       |
+|----------------------------------------------------|----------------------------|
+| Organization and Repository Setup                  | Hasan Berk Demir           |
+| Writing the Project Objective Document             | Beyza Başeğmez             |
+| Sensor Selection                                   | Berkay Acar                |
+| Bracelet Hardware Design                           | Berkay Acar                |
+| Collecting Sensor Data via MCU                     | Hasan Berk Demir           |
+| Developing the Mobile Application                  | Beyza Başeğmez             |
+| Managing the Testing Process                       | Berkay Acar                |
+| Preparing the Project Report and Documentation     | Hasan Berk Demir           |
