@@ -1,14 +1,14 @@
-Proje Bütçe Planı (Tahmini)
+# Project Budget Plan (Estimated)
 
-| Kategori                                      | Gerekli Harcama / Faaliyet                                                  | Tahmini Maliyet (₺) |
-|----------------------------------------------|-----------------------------------------------------------------------------|---------------------|
-| Sensör Kalibrasyonu ve Testleri              | Sensör test cihazları, kalibrasyon ekipmanları                             | 15.000              |
-| Mobil Bağlantı İyileştirmesi                 | Bluetooth modül testleri, bağlantı istikrarı yazılım geliştirmesi          | 10.000              |
-| Gürültü Engelleme ve Algoritma Geliştirme    | Gürültü filtreleme yazılımları, çevresel test ortamı kurulumu              | 12.000              |
-| Donanım Yedekleme                            | Yedek bileşen temini (sensor, işlemci, batarya vb.), çift sistem kurulumu  | 20.000              |
-| Zaman Yönetimi ve Proje Takibi               | Proje yönetim yazılım lisansları (Jira/Trello), toplantı giderleri         | 5.000               |
-| Kullanıcı Testleri ve Geri Bildirim          | Anket ve test uygulama maliyetleri, kullanıcı teşvikleri                   | 8.000               |
-| Veri Güvenliği                               | Şifreleme yazılımları, güvenlik danışmanlığı ve testleri                   | 15.000              |
-| Beklenmeyen Riskler (Acil Durum Fonu)        | %10 ek bütçe olarak ayrılır                                                | 9.500               |
+| Category                                       | Required Expense / Activity                                                 | Estimated Cost (₺)   |
+|------------------------------------------------|-----------------------------------------------------------------------------|----------------------|
+| Sensor Calibration and Testing                | Sensor testing devices, calibration equipment                                | 15,000               |
+| Mobile Connectivity Improvement               | Bluetooth module testing, connectivity stability software development        | 10,000               |
+| Noise Cancellation and Algorithm Development  | Noise filtering software, environmental test setup                          | 12,000               |
+| Hardware Backup                                | Backup components (sensor, processor, battery, etc.), dual system setup     | 20,000               |
+| Time Management and Project Tracking          | Project management software licenses (Jira/Trello), meeting expenses        | 5,000                |
+| User Testing and Feedback                     | Survey and test application costs, user incentives                          | 8,000                |
+| Data Security                                 | Encryption software, security consultancy and testing                       | 15,000               |
+| Unexpected Risks (Emergency Fund)             | 10% additional budget allocated                                             | 9,500                |
 
-**Toplam Tahmini Bütçe: 94.500 ₺**
+**Total Estimated Budget: 94,500 ₺**
