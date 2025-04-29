@@ -67,8 +67,8 @@ EduBand uses **React Navigation** for a structured, intuitive flow:
 
 UI is validated on multiple platforms and screen sizes, including:
 
-- 📱 iPhone 13 Pro *(iOS Simulator)*  
-- 📱 Pixel 5 *(Android Emulator)*  
-- 📱 Samsung Galaxy A52 *(Real Device)*  
-- 📱 iPad Mini / Galaxy Tab A7 *(Small Tablets)*  
+-  iPhone 13 Pro *(iOS Simulator)*  
+-  Pixel 5 *(Android Emulator)*  
+-  Samsung Galaxy A52 *(Real Device)*  
+-  iPad Mini / Galaxy Tab A7 *(Small Tablets)*  
 
