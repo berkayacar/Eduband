@@ -34,8 +34,8 @@ Version Control: GitHub
 Deployment: Docker (for backend containerization)
 
 👥 Contributors
-Berkay Acar – Project Lead, Full-stack Developer 
+Berkay Acar – Project Lead, Full-stack Developer - 210402016
 
-Beyza Başeğmez – Hardware & Sensor Integration
+Beyza Başeğmez – Hardware & Sensor Integration - 210402022
 
-Hasan Berk Demir – Data Analysis & Reporting 
+Hasan Berk Demir – Data Analysis & Reporting - 210402047
