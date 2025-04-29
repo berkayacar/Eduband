@@ -1,59 +1,74 @@
-EduBand – System Architecture Design Overview
-1. System Overview
-EduBand utilizes a device-server architecture, where a wearable device captures focus-related data and communicates with a lightweight backend API.
-The backend server, built with Flask and containerized with Docker, manages data storage, report generation, and device synchronization.
+#  EduBand – System Architecture Design Overview
 
-The mobile application (currently in the planning phase) will be developed with React Native to enable students to monitor their concentration trends and download performance summaries.
-The device connects to mobile devices over Bluetooth for real-time data transfer and feedback.
+---
 
-System Components:
+## **1. System Overview**
 
-Wearable Device (Focus tracking and vibration feedback)
+EduBand utilizes a **device-server architecture**, where a wearable device captures focus-related data and communicates with a lightweight backend API.
 
-Flask REST API (Backend server)
+The backend server, built with **Flask** and containerized with **Docker**, manages:
 
-React Native Mobile App (Future)
+- Data storage  
+- Report generation  
+- Device synchronization  
 
-Bluetooth Communication Layer
+ **Mobile Application** (planned with **React Native**) will allow students to:
 
-2. User Interface Approach
-The UI of EduBand emphasizes simplicity and ease of use, with an intuitive flow to ensure that students can quickly access key focus metrics without distraction.
-Early-stage wireframes were designed using Figma and will be translated into mobile app components using React Native libraries.
+- Monitor concentration trends  
+- Download performance summaries  
 
-Planned Screens:
-Sign In / Sign Up: Secure user authentication
+ The device connects to mobile devices via **Bluetooth** for **real-time data transfer and feedback**.
 
-Focus Dashboard: Live attention score and activity overview
+### System Components:
 
-Device Connection: Bluetooth pairing and monitoring screen
+- **Wearable Device** *(Focus tracking & vibration feedback)*
+- **Flask REST API** *(Backend server)*
+- **React Native Mobile App** *(Future)*
+- **Bluetooth Communication Layer**
 
-Focus History: Past session summaries and focus trends
+---
 
-Weekly Reports: PDF downloads of weekly performance evaluations
+## **2. User Interface Approach**
 
-3. Visual Design
-Primary Color: #4E73DF (Energetic Blue – inspires focus)
+The UI focuses on **simplicity** and **user-friendly navigation**, ensuring students can easily monitor focus metrics.
 
-Secondary Color: #FFFFFF (Clean white background for readability)
+ **Wireframes** were designed in **Figma** and will be converted into mobile components using **React Native libraries**.
 
-Font Family: Poppins (Optimized for clarity across mobile devices)
+### Planned Screens:
 
-Color and typography choices aim to promote focus while maintaining an aesthetically pleasing user experience.
+- **Sign In / Sign Up**: Secure user authentication  
+- **Focus Dashboard**: Live attention score and activity overview  
+- **Device Connection**: Bluetooth pairing & monitoring  
+- **Focus History**: Past session summaries & trends  
+- **Weekly Reports**: Downloadable PDFs of weekly performance  
 
-4. Navigation Strategy
-App navigation will be structured with React Navigation:
+---
 
-Stack Navigation for linear flows (Login → Dashboard → Reports)
+## **3. Visual Design**
 
-Tab Navigation for quick switching between major sections (Home, History, Settings)
+ **Primary Color**: `#4E73DF` *(Energetic Blue – inspires focus)*  
+ **Secondary Color**: `#FFFFFF` *(Clean white background)*  
+ **Font Family**: `Poppins` *(Optimized for clarity on mobile)*  
 
-5. Responsiveness Testing
-The user interface design will be validated across multiple platforms and screen sizes, including:
+> Color and typography aim to **promote focus** and offer an **aesthetic user experience**.
 
-iPhone 13 Pro (iOS Simulator)
+---
 
-Pixel 5 (Android Emulator)
+## **4. Navigation Strategy**
 
-Samsung Galaxy A52 (Real Android Device)
+EduBand uses **React Navigation** for a structured, intuitive flow:
 
-Initial checks for responsiveness on small tablets (iPad Mini, Galaxy Tab A7)
+- **Stack Navigation** → Login → Dashboard → Reports  
+- **Tab Navigation** → Home, History, Settings  
+
+---
+
+## **5. Responsiveness Testing**
+
+UI is validated on multiple platforms and screen sizes, including:
+
+- 📱 iPhone 13 Pro *(iOS Simulator)*  
+- 📱 Pixel 5 *(Android Emulator)*  
+- 📱 Samsung Galaxy A52 *(Real Device)*  
+- 📱 iPad Mini / Galaxy Tab A7 *(Small Tablets)*  
+
