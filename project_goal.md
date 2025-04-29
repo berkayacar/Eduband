@@ -1,13 +1,46 @@
-Proje Amacı
-EduBand, özellikle çevrim içi derslerde veya uzun süreli çalışmalarda dikkat dağınıklığı yaşayan öğrencilerin odak seviyelerini ölçmek, uyarı vermek ve dikkat sürelerini iyileştirmelerine yardımcı olmak için tasarlanmış bir giyilebilir dikkat takip cihazıdır.
+#  EduBand – Project Purpose Template
 
-Cihaz, bileğe takılır ve hareket, nabız ve mikrodalga dikkat parametreleri (hareketsizlik, el hareketleri, anormal kalp hızı değişimleri vb.) üzerinden odak düzeyini analiz eder.
+> A structured template for presenting your project’s purpose, goals, and context
 
-Proje Hedefleri
-Öğrencinin derste odaklanma durumunu sensörlerle analiz etmek
+---
 
-Dikkat dağılması algılandığında titreşimle uyarı vermek
+##  **Project Name**
+**EduBand** – Smart Focus Tracker for Students
 
-Mobil uygulama ile öğrenciye günlük/haftalık rapor sunmak
+---
 
-Veliler veya danışmanlar için haftalık performans değerlendirme PDF’leri üretmek
+##  **Project Objective**
+EduBand is a wearable device aimed at helping students **monitor and improve their attention span** during study sessions and online learning. By collecting motion and biometric data, the device detects focus loss and provides **instant feedback**.
+
+---
+
+## 🛠️ **Core Functions**
+| Feature                           | Description                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+|  Focus Detection                | Monitors user attention using motion & heart rate sensors                   |
+|  Instant Alert                  | Sends vibration feedback when focus drops                                   |
+|  Weekly Reports                 | Generates performance summaries as downloadable PDFs                        |
+|  Mobile App Sync                | Displays real-time data and trends via mobile interface                     |
+
+---
+
+##  **Why EduBand?**
+> Students today face an overwhelming number of distractions. EduBand offers a tangible, data-driven solution to help them stay engaged and track their focus over time.
+
+---
+
+##  **Target Users**
+- Students aged 12–25  
+- Parents monitoring academic progress  
+- Educators interested in tech-assisted learning
+
+---
+
+##  **Technology Stack**
+| Component        | Tool / Language        |
+|------------------|------------------------|
+| Backend API      | Flask + SQLite         |
+| Hardware Device  | Custom PCB + Sensors   |
+| Mobile Interface | React Native           |
+| Hosting Options  | Render / Railway / Vercel |
+
