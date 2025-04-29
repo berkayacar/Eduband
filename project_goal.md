@@ -1,6 +1,6 @@
 #  EduBand – Project Purpose Template
 
-> A structured template for presenting your project’s purpose, goals, and context
+
 
 ---
 
