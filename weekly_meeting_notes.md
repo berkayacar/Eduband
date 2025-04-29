@@ -1,65 +1,9 @@
-Weekly Meeting Notes
+# Weekly Meeting Notes – EduBand
 
-Week 1
-Tamamlanan Görevler:
-- Proje organizasyonu kuruldu. (Hasan Berk Demir)
-- Project-Goal.md dosyası oluşturuldu. (Hasan Berk Demir)
+| **Week** | **Completed Tasks** | **Delayed Tasks** | **New Risks** | **Notes** |
+|----------|---------------------|-------------------|---------------|-----------|
+| **Week 1** | - Project organization established. <br> - Project-Goal.md file created. <br> _(Hasan Berk Demir)_ | None | None | The project is progressing as planned. Team organization successfully completed. |
+| **Week 2** | - WBS structure created. <br> - Task-Assignments file created. <br> - Sensor selection work initiated. <br> _(Hasan Berk Demir, Beyza Başeğmez)_ | None | None | Team collaboration is smooth. Initial steps completed successfully. |
+| **Week 3** | - Stakeholder and Risk Plans completed. <br> - Bracelet hardware design finalized. <br> - Sensor data collection code started. <br> _(Hasan Berk Demir, Beyza Başeğmez, Berkay Acar)_ | Minor delay in mobile app development. _(Beyza Başeğmez)_ | Potential Bluetooth connection issues. | Alternative connection tests planned. Hardware design mostly complete. |
+| **Week 4** | - Initial tests planned and executed. <br> - Mobile app design and Bluetooth integration started. <br> - Project report and user guide drafted. <br> _(Berkay Acar, Beyza Başeğmez, Hasan Berk Demir)_ | User testing pending | Risk of hardware stock shortages. | Project report draft initiated. User testing planned for the following week. |
 
-Geciken Görevler:
-- Yok.
-
-Yeni Riskler:
-- Yok.
-
-Notlar:
-- Proje planına uygun ilerleniyor. Ekip organizasyonu başarılı şekilde kuruldu.
-
----
-
-Week 2
-Tamamlanan Görevler:
-- WBS yapısı oluşturuldu. (Hasan Berk Demir)
-- Task-Assignments dosyası oluşturuldu. (Hasan Berk Demir)
-- Sensör seçimi çalışmaları başlatıldı. (Beyza Başeğmez)
-
-Geciken Görevler:
-- Yok.
-
-Yeni Riskler:
-- Yok.
-
-Notlar:
-- Ekip çalışması uyumlu. İlk adımlar başarıyla tamamlandı.
-
----
-
-Week 3
-Tamamlanan Görevler:
-- Stakeholder ve Risk Planları tamamlandı. (Hasan Berk Demir & Beyza Başeğmez)
-- Bileklik donanım tasarımı oluşturuldu. (Berkay Acar)
-- Sensör verisi toplama kodlaması başlatıldı. (Beyza Başeğmez)
-
-Geciken Görevler:
-- Mobil uygulama geliştirme çalışmalarında küçük gecikme bekleniyor. (Beyza Başeğmez)
-
-Yeni Riskler:
-- Bluetooth bağlantı problemleri riski.
-Notlar:
-- Alternatif bağlantı testleri planlanıyor. Donanım tasarımı büyük ölçüde tamamlandı.
-
----
-
-Week 4
-Tamamlanan Görevler:
-- İlk testler planlandı ve yürütüldü. (Berkay Acar)
-- Mobil uygulama tasarımı ve Bluetooth entegrasyonu başlatıldı. (Beyza Başeğmez)
-- Proje raporu ve kullanım kılavuzu çalışmaları tamamlandı. (Hasan Berk Demir)
-
-Geciken Görevler:
-- Kullanıcı testi tamamlanması.
-
-Yeni Riskler:
-- Donanım stok sorunları.
-
-Notlar:
-- Proje raporu hazırlıkları başladı. Testler için bir sonraki hafta kullanıcı testi aşamasına geçilecek.
