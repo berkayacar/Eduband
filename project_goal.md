@@ -14,7 +14,7 @@ EduBand is a wearable device aimed at helping students **monitor and improve the
 
 ---
 
-## 🛠️ **Core Functions**
+##  **Core Functions**
 | Feature                           | Description                                                                 |
 |-----------------------------------|-----------------------------------------------------------------------------|
 |  Focus Detection                | Monitors user attention using motion & heart rate sensors                   |
