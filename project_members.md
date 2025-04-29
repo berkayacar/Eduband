@@ -1,4 +1,4 @@
-# 👥 Project Members
+#  Project Members
 
 | Name               | Student ID       |
 |--------------------|------------------|
